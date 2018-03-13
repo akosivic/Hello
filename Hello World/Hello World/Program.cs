@@ -11,7 +11,7 @@ namespace Hello_World
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            string name = "My name is Trish";
+            string name = "My name is Vic";
             Console.WriteLine(name);
             Console.WriteLine("Write me a message: ");
             string inputReadLine;
